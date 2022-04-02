@@ -1,0 +1,203 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+
+.menu{
+    background-color: rgb(71, 82, 74);
+    width: 100%;
+    height: 90px;
+    
+}
+.menu a{
+    color: azure;
+    font-size: larger;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 30px;
+    
+    margin-left: 20%;
+}
+.menu a:hover{
+    color: gold;
+    font-size: large;
+}
+
+
+body h1{
+    position: absolute;
+    font-size: 150px;
+    top: 20%;
+    text-align: center;
+    width: 100%;
+}
+body .ima{
+    width:100%;
+    height:880PX;
+   
+}
+.mv{
+    background-color:rgb(71, 82, 74);
+    width: 18%;
+    height: 450px;
+    margin-top: 10px;
+  
+}
+ul .mev{text-align: center;
+    font-size: x-large;
+    background-color: black;
+    margin: 10px 0;
+
+    
+}
+li a{
+    display: block;
+    text-decoration: none;
+    font-size: x-large;
+    font-style: italic;
+    color: beige;
+
+
+}
+ul .mei{
+    font-size: x-large;
+    background-color: black;
+    text-align: center;
+
+}
+
+ul .mii{
+    font-size: x-large;
+    background-color: black;
+text-align: center;
+}
+ .titre{
+    font-size: xx-large;
+    text-align: center ;
+    font-style: italic;
+    color: blue;
+ 
+}
+.DEF li{
+    font-size: x-large;
+    text-align: center;
+    
+}
+.hov a:hover{
+    background-color: rgb(161, 168, 161);
+}
+.hove a:hover{background-color: rgb(161, 168, 161);}
+.hover a:hover{background-color: rgb(161, 168, 161);}
+
+
+   
+
+.para p{
+    
+   padding-left: 50px;
+   margin-top: 200px;
+   margin-left: 210px;
+   font-size: large;
+   text-align: justify;
+  
+   
+
+}
+.pr .tte{
+    color: blue;
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic;
+    padding-left: 52px;
+    padding: 0%;
+    margin: 0%;
+}
+.pr ul{
+    
+    text-align: justify;
+    padding-left:285px;
+    margin-top: 200px;
+}
+.pr li{
+    font-size: larger;
+    
+}
+ .pr h4{
+  font-size: x-large;
+  
+}
+.pi ul{text-align: justify;
+    padding-left: 285px;
+  }
+.pi li{
+    font-size: larger;
+}
+.pi h4{
+    font-size: x-large;}
+.VID video{
+ text-align: center;
+ margin-left: 400px;
+ margin-top: 120px;
+    
+}
+.vd{
+    color: blue;
+    font-style: italic;
+    font-size: xx-large;
+}
+.MOD{
+    width: 45%;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-left: 390px
+    ;
+}
+.tre h6{
+    font-size: 30PX;
+    color:black;
+    margin:  20px;
+}
+.tre {
+  
+    text-align: center;
+ background-color: rgb(65, 57, 57);
+ margin-top: 150px;
+ 
+}
+.menu .imf{
+    margin-top: 38px;
+    width:100%;
+    height:880px;
+}
+input{
+    width:250PX;
+    margin: 10px 0;
+    background-color:whitesmoke;
+    color:black;
+    padding: 10px 6px;
+    font-size: 15px;
+}
+textarea{
+    width:250PX;
+    margin: 10px 0;
+    background-color:whitesmoke;
+    color:black;
+    padding: 10px 6px;
+    font-size: 15px;
+
+}
+button{
+    width: 110PX;
+    padding: 6PX;
+    margin: 4PX;
+    background-color: rgb(3, 167, 243);
+    color: ghostwhite;
+}.lien{
+    text-decoration: none;
+}
+ .IFR{
+  width: 100%;
+  text-align: center;
+}
